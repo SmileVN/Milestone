@@ -1,0 +1,17 @@
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Smile/Projects/Milestone/Milestone_Android/bin/Debug/Milestone_Android.dll.mdb
+/Users/Smile/Projects/Milestone/Milestone_Android/bin/Debug/Milestone_Android.dll
+/Users/Smile/Projects/Milestone/Milestone_Android/bin/Debug/Milestone_Android.Milestone_Android.apk
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/android/bin/Milestone_Android.Milestone_Android.apk
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/layout/main.xml
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/values/strings.xml
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/drawable-mdpi/icon.png
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/R.cs.flag
+/Users/Smile/Projects/Milestone/Milestone_Android/bin/Debug/Milestone_Android.Milestone_Android-Signed.apk
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/uploadflags.txt
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/Milestone_Android.dll
+/Users/Smile/Projects/Milestone/Milestone_Android/obj/Debug/Milestone_Android.dll.mdb
