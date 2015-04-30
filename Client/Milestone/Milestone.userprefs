@@ -1,11 +1,13 @@
-﻿<Properties StartupItem="Milestone_Android/Milestone_Android.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupItem="Milestone_iOS/Milestone_iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Milestone_iOS/IntroViewController.cs">
     <Files>
-      <File FileName="BusinessLayer/MyClass.cs" Line="13" Column="25" />
-      <File FileName="Milestone_Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="Milestone_Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
-      <File FileName="Milestone_Android/MainActivity.cs" Line="13" Column="38" />
+      <File FileName="Milestone_iOS/IntroViewController.cs" Line="49" Column="41" />
+      <File FileName="Milestone_iOS/IntroViewController.designer.cs" Line="34" Column="33" />
+      <File FileName="Milestone_iOS/Main.cs" Line="10" Column="26" />
+      <File FileName="Milestone_iOS/AppDelegate.cs" Line="40" Column="16" />
+      <File FileName="Milestone_iOS/SignUpViewController.cs" Line="30" Column="4" />
+      <File FileName="Milestone_iOS/SignUpViewController.designer.cs" Line="16" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

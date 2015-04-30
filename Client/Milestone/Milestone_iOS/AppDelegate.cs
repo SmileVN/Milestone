@@ -27,9 +27,12 @@ namespace Milestone_iOS
 		{
 			// create a new window instance based on the screen size
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
-			
+
 			// If you have defined a root view controller, set it here:
-			// window.RootViewController = myViewController;
+			UINavigationController nagivationController = new UINavigationController(new IntroViewController());
+			nagivationController.NavigationBar.Hidden = true;
+
+			window.RootViewController = nagivationController;
 			
 			// make the window visible
 			window.MakeKeyAndVisible ();

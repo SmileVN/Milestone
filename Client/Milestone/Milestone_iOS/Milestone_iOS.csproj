@@ -22,6 +22,9 @@
     <MtouchArch>i386</MtouchArch>
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchI18n>
+    </MtouchI18n>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>full</DebugType>
@@ -102,7 +105,19 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="IntroViewController.cs" />
+    <Compile Include="IntroViewController.designer.cs">
+      <DependentUpon>IntroViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpViewController.cs" />
+    <Compile Include="SignUpViewController.designer.cs">
+      <DependentUpon>SignUpViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="..\BusinessLayer\BusinessLayer.projitems" Label="Shared" Condition="Exists('..\BusinessLayer\BusinessLayer.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.MonoTouch.CSharp.targets" />
+  <ItemGroup>
+    <InterfaceDefinition Include="IntroViewController.xib" />
+    <InterfaceDefinition Include="SignUpViewController.xib" />
+  </ItemGroup>
 </Project>
